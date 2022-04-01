@@ -1,6 +1,6 @@
 ## Olá!!! eu sou o Gabriel Martins
 
-- 🎒👨‍🎓 Estudante de Sistemas de Informação no [Centro Universitário UNA] (una.br)
+- 🎒👨‍🎓 Estudante de Sistemas de Informação no [Centro Universitário UNA](una.br)
 - 🧑‍💼 Trabalho como Analista de Sistemas
 
 <div align="center">
