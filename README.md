@@ -1,7 +1,7 @@
 ## Olá!!! eu sou o Gabriel Martins
 
 - 🎒👨‍🎓 Estudante de Sistemas de Informação no [Centro Universitário UNA](una.br)
-- 🧑‍💼 Trabalho como Analista de Sistemas
+- 🧑‍💼 Trabalho como Analista de Sistemas na [SPData](https://spdata.com.br/)
 
 <div align="center">
   <a href="https://github.com/GabrielMartinsF">
